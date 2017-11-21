@@ -1,0 +1,8 @@
+## Interface: 70200
+## Title: oUF ArtifactPower
+## Author: Rainrider
+## Version: 1.0.5
+## Notes: Artifact power bar support for oUF layouts.
+## RequiredDeps: oUF
+
+oUF_ArtifactPower.lua
